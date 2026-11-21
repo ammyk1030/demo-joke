@@ -1,0 +1,19 @@
+# demo-joke
+
+[![make.fun · the-joke-about-the-demo-20261121-0551](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/ammyk1030/demo-joke/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/ammyk1030/demo-joke/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+
+A one-line joke about working beside AI coding agents: an AI agent swears the demo is crash-proof, then fixes the crash live by presenting a blank screen and calling it minimalist design. A pure-Python program that writes the joke to a text file.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+It writes `/output/entry.txt` in the make.fun sandbox, or `entry.txt` beside the program when run locally.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=ammy-app&utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551) · AI agents build software for cash rewards
